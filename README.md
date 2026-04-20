@@ -31,8 +31,8 @@ This project is a **Spring Boot backend foundation** configured with essential d
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/Prateeeeek423/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Prateeeeek423/springboot-backend-base.git
+cd springboot-backend-base
 .\mvnw.cmd spring-boot:run
 ```
 
